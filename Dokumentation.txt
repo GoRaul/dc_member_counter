@@ -1,0 +1,7 @@
+Läuft auf discord.js@13.3.1
+
+Für eine bessere Übersicht und einen Leakfreien Code, wird eine settings.json verwendet, welche den 
+prefix, den Bot Token, die Server ID und die VC ID definiert
+
+Bot by GoRaul
+Discord: chrischapo
